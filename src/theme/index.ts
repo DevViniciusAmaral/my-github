@@ -4,5 +4,5 @@ import { UnistylesRegistry } from "react-native-unistyles";
 
 UnistylesRegistry.addBreakpoints(breakpoints).addThemes(appThemes).addConfig({
   initialTheme: "light",
-  adaptiveThemes: true,
+  // adaptiveThemes: true,
 });
